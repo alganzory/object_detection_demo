@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Medical Gloves</folder>
+	<filename>1593610922631.jpeg</filename>
+	<path>C:\Users\vidya\Desktop\DATASET2\Medical Gloves\1593610922631.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>185</width>
+		<height>273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>2</ymin>
+			<xmax>184</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>
