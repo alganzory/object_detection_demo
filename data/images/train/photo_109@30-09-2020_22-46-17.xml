@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>photo_109@30-09-2020_22-46-17.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\photo_109@30-09-2020_22-46-17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>371</ymin>
+			<xmax>473</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>glove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>14</ymin>
+			<xmax>658</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

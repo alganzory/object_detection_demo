@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>stock-photo-man-is-doing-chores-around-the-house-with-yellow-and-blue-gloves-used-broken-yellow-grove-showing-1406938931.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\stock-photo-man-is-doing-chores-around-the-house-with-yellow-and-blue-gloves-used-broken-yellow-grove-showing-1406938931.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>41</ymin>
+			<xmax>1188</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+</annotation>

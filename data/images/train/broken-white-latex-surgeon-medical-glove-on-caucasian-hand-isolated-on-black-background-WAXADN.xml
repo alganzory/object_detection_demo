@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>broken-white-latex-surgeon-medical-glove-on-caucasian-hand-isolated-on-black-background-WAXADN.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\broken-white-latex-surgeon-medical-glove-on-caucasian-hand-isolated-on-black-background-WAXADN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1014</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>118</ymin>
+			<xmax>901</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>cut_glove_n.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\cut_glove_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>12</ymin>
+			<xmax>648</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

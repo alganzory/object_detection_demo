@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>hand-wearing-broken-glove-142413499.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\hand-wearing-broken-glove-142413499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>104</ymin>
+			<xmax>664</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

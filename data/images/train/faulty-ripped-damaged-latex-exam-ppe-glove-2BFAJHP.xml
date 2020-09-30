@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>faulty-ripped-damaged-latex-exam-ppe-glove-2BFAJHP.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\faulty-ripped-damaged-latex-exam-ppe-glove-2BFAJHP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>951</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>62</ymin>
+			<xmax>1143</xmax>
+			<ymax>783</ymax>
+		</bndbox>
+	</object>
+</annotation>

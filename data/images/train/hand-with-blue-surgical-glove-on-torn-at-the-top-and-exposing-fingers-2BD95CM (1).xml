@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>hand-with-blue-surgical-glove-on-torn-at-the-top-and-exposing-fingers-2BD95CM (1).jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\hand-with-blue-surgical-glove-on-torn-at-the-top-and-exposing-fingers-2BD95CM (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>150</ymin>
+			<xmax>950</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>

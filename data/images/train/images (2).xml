@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>images (2).jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\images (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>55</ymin>
+			<xmax>189</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

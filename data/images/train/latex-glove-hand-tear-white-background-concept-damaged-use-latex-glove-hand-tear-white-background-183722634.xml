@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photos</folder>
+	<filename>latex-glove-hand-tear-white-background-concept-damaged-use-latex-glove-hand-tear-white-background-183722634.jpg</filename>
+	<path>C:\Users\vidya\Downloads\Telegram Desktop\ChatExport_2020-09-30\photos\latex-glove-hand-tear-white-background-concept-damaged-use-latex-glove-hand-tear-white-background-183722634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>193</ymin>
+			<xmax>621</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>
