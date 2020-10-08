@@ -1,0 +1,26 @@
+<annotation>
+	<folder>more</folder>
+	<filename>IMG_3053.JPG</filename>
+	<path>C:\Users\vidya\Desktop\more\IMG_3053.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defected</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>734</ymin>
+			<xmax>2892</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+</annotation>
